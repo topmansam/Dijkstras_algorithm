@@ -1,0 +1,32 @@
+Thunder Bay,Toronto,1196
+Sudbury,Toronto,423
+Sudbury,North Bay,262
+North Bay,Toronto,398
+North Bay,Renfrew,334
+Renfrew,Toronto,370
+Renfrew,Arnprior,73
+Arnprior,Kingston,280
+Arnprior,Ottawa,89
+Ottawa,Kingston,257
+Toronto,Kingston,251
+Toronto,Guelph,85
+Toronto,Hamilton,56
+Guelph,Waterloo,20
+Waterloo,Hamilton,65
+Hamilton,Grimsby,14
+Hamilton,London,219
+Grimsby,Saint Catharines,45
+Grimsby,London,121
+Saint Catharines,NOTL,28
+Saint Catharines,Welland,19
+Saint Catharines,Niagara Falls,30
+NOTL,Niagara Falls,14
+Welland,Niagara Falls,20
+Niagara Falls,Fort Erie,21
+Welland,Fort Erie,33
+Welland,London,102
+London,Fort Erie,115
+London,Sarnia,376
+London,Chatham-Kent,157
+Windsor,Sarnia,348
+Windsor,Chatham-Kent,60

@@ -1,0 +1,21 @@
+Edge:1 source: 3 destination: 5 cost: 14
+Edge:2 source: 8 destination: 10 cost: 14
+Edge:3 source: 19 destination: 13 cost: 19
+Edge:4 source: 18 destination: 4 cost: 20
+Edge:5 source: 8 destination: 19 cost: 20
+Edge:6 source: 2 destination: 8 cost: 21
+Edge:7 source: 13 destination: 3 cost: 45
+Edge:8 source: 5 destination: 17 cost: 56
+Edge:9 source: 1 destination: 20 cost: 60
+Edge:10 source: 5 destination: 18 cost: 65
+Edge:11 source: 0 destination: 12 cost: 73
+Edge:12 source: 11 destination: 0 cost: 89
+Edge:13 source: 7 destination: 19 cost: 102
+Edge:14 source: 1 destination: 7 cost: 157
+Edge:15 source: 6 destination: 17 cost: 251
+Edge:16 source: 6 destination: 11 cost: 257
+Edge:17 source: 9 destination: 15 cost: 262
+Edge:18 source: 12 destination: 9 cost: 334
+Edge:19 source: 14 destination: 20 cost: 348
+Edge:20 source: 17 destination: 16 cost: 1196
+Total Cost:3403
